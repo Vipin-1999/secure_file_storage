@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Build output directory
+dist/
+
+# Environment variables
+.env
+
+# Sensitive Firebase service account file
+serviceAccountKey.json
+
+# OS-specific files
+.DS_Store
+
+package-lock.json

@@ -1,0 +1,5 @@
+I want the following enhancements for frontend from you
+1. I want to show the list of files that are uploaded to the user.
+2. There is an endpoint to download the file in backend but it is not used in frontend. I want to provide that functionality to the user
+3. I want to show the application name and the logout button in the navbar 
+4. I want to add a graph too that displays the displays types and number of files that have been added for the logged in user.
